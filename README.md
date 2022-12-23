@@ -22,6 +22,6 @@ President’s List (4 semesters)<br>
 ‣ Researched McDonald’s data of the past 12 years on number of employees, store count, revenue and net income to use as inputs and outputs <br>
 ‣ Utilized advanced Microsoft Excel features including solver and pivot tables to create an excel sheet with convenient usability <br>
 
-Perso website
-<p align="center">[Email](mailto:allenj.port.com) | [Personal Website](https://allenjport.github.io/) | [LinkedIn](https://www.linkedin.com/in/allenportilla/)</p>
+
+[Email](mailto:allenj.port.com) | [Personal Website](https://allenjport.github.io/) | [LinkedIn](https://www.linkedin.com/in/allenportilla/)
 
