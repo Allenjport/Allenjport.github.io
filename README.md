@@ -1,6 +1,5 @@
 # Allen Portilla                  
-_Finance Major at Suny Polytechnic based in New York_
-<p align ="right">[Experience](#experience) | [Education](#education)</p>
+_Finance Major at Suny Polytechnic based in New York_<p align ="right">[Experience](#experience) | [Education](#education)</p>
 ## Experience<br>
 **Leadership Development Internship**<br>
 _Remote Internship at [Ripplematch](https://ripplematch.com/)_<br>
