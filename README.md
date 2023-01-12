@@ -23,12 +23,12 @@ President’s List (4 semesters)<br>
 ‣ Utilized advanced Microsoft Excel features including solver and pivot tables to create an excel sheet with convenient usability <br>
 ## Extracurricular-Activities<br>
 **President and Founder of Badminton Club at Suny Poly**<br>
-‣ Recruited and engaged 45+ students to form new student sports organization
-‣ Organized team meetings, coordinated multiple calendars and scheduled games
-‣ Petitioned and successfully secured school funding in recognition of new student club
+‣ Recruited and engaged 45+ students to form new student sports organization<br>
+‣ Organized team meetings, coordinated multiple calendars and scheduled games<br>
+‣ Petitioned and successfully secured school funding in recognition of new student club<br>
 **Executive Communication Coordinator**<br>
-‣ Planned campus-wide student events ranging up to 5,000+ students
-‣ Oversaw the university’s residential life association
+‣ Planned campus-wide student events ranging up to 5,000+ students<br>
+‣ Oversaw the university’s residential life association<br>
 ‣ Reviewed and approved student residential housing events<br>
 [Email](mailto:allenj.port.com) | [Personal Website](https://allenjport.github.io/) | [LinkedIn](https://www.linkedin.com/in/allenportilla/)
 
